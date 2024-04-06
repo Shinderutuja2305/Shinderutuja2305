@@ -3,6 +3,7 @@ Hi there, I'm Rutuja Shinde! 👋
 I'm a software developer with expertise in both frontend and backend technologies, specializing in MERN stack development.
 
 🚀 I specialize in:
+
 Frontend: React.js, Redux, HTML5, CSS3, Material UI
 
 Backend: Node.js, Express.js
